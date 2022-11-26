@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ManavRachnaNavigaition</string>
+    <string name="central_library">Central Library</string>
+    <string name="navigate_to_central_library">Navigate To Central Library</string>
+    <string name="a_block">A-Block</string>
+    <string name="navigate_to_a_block">Navigate To A-Block</string>
+</resources>
