@@ -74,7 +74,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="300px"
                     android:paddingBottom="25px"
-                    android:src="@drawable/manav_logo"/>
+                    android:src="@drawable/a_block"/>
                 <Button
                     android:id="@+id/a_block"
                     android:layout_width="match_parent"
@@ -144,7 +144,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="300px"
                     android:paddingBottom="25px"
-                    android:src="@drawable/manav_logo"/>
+                    android:src="@drawable/c_block"/>
                 <Button
                     android:id="@+id/c_block"
                     android:layout_width="match_parent"
@@ -212,7 +212,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="300px"
                     android:paddingBottom="25px"
-                    android:src="@drawable/manav_logo"/>
+                    android:src="@drawable/e_block"/>
                 <Button
                     android:id="@+id/e_block"
                     android:layout_width="match_parent"
@@ -246,7 +246,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="300px"
                     android:paddingBottom="25px"
-                    android:src="@drawable/manav_logo"/>
+                    android:src="@drawable/e_block"/>
                 <Button
                     android:id="@+id/f_block"
                     android:layout_width="match_parent"
@@ -281,7 +281,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="300px"
                     android:paddingBottom="25px"
-                    android:src="@drawable/manav_logo"/>
+                    android:src="@drawable/g_block"/>
                 <Button
                     android:id="@+id/g_block"
                     android:layout_width="match_parent"
